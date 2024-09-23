@@ -1,0 +1,1 @@
+{"name":"Local: T_shape_2","url":"e:\\Phitron Batch 4\\Module 14.5\\T_shape_2.c","tests":[{"id":1698332490612,"input":"4","output":"*\n  ***\n *****\n*******"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron Batch 4\\Module 14.5\\T_shape_2.c","group":"local","local":true}

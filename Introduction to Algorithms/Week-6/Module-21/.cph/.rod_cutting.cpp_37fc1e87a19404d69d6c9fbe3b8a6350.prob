@@ -1,0 +1,1 @@
+{"name":"Local: rod_cutting","url":"e:\\Phitron Batch 4\\Introduction to Algorithms\\Week-6\\Module-21\\rod_cutting.cpp","tests":[{"id":1726775982386,"input":"8\n2 4 5 6 7 8 9 1","output":"16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron Batch 4\\Introduction to Algorithms\\Week-6\\Module-21\\rod_cutting.cpp","group":"local","local":true}
